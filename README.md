@@ -6,11 +6,15 @@ markdown syntax for kits cse 4th year
 ##### the last length of heading
 ## bold and italic formats
 **cse**
+
 __cse__
 
 *cse*
+
 _cse_
+
 _**cse**_
+
 _*cse*_
 ## https://www.markdownguide.org/cheat-sheet/
 ## blackquotes
