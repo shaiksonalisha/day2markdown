@@ -62,6 +62,4 @@ dfgghhjhjjjj
 ## image inserting
 ![image](https://github.com/shaiksonalisha/day2markdown/blob/master/img.jpg)
  ## inserting videos          
- [![video](https://img.youtube.com/vi/st4HhNjUjlA/0.jpg)]
- 
-(https://www.youtube.com/watch?v=st4HhNjUjlA)
+ [![video](https://img.youtube.com/vi/st4HhNjUjlA/0.jpg)](https://www.youtube.com/watch?v=st4HhNjUjlA)
