@@ -23,7 +23,7 @@ _*cse*_
 > abcd
 >> cdehgf
 >>> asdfgsfhgfh
-## orderedlist
+## ordered list
 1. cse
 2. ece
 3. civil
@@ -33,7 +33,16 @@ _*cse*_
 5. eee
     1. eee a
     2. eee b
-    
+## unordered list
+-  cse
+-  ece
+-  mech
+    *  mech a
+    *  mech b
+-  civil
+    *  civil a
+    *  civil b
+-  eee
     
             
             
