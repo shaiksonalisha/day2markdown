@@ -45,9 +45,13 @@ _*cse*_
 -  eee
 ## codeing
 
-...
-print("hello kits")
-...
+```
+def fun():
+    print("hello kits")
+````
+```
+fun()
+```
 
 
             
