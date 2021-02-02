@@ -31,6 +31,6 @@ _*cse*_
     2. civil b
 4. mech
 5. eee
-            1. eeea
-            2. eeeb
+            
+            
   
